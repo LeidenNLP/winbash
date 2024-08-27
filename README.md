@@ -63,7 +63,7 @@ python3.11 -m pip install pipx
 
 These tools will be explained later in the course.
 
-### 4. PyCharm setup: Choosing `wsl.exe` as the PyCharm shell
+### 4. Choosing `wsl.exe` as the PyCharm shell
 
 This and the following step are only for convenience, and not strictly necessary.
 
@@ -71,7 +71,7 @@ In PyCharm, you can select which shell to use, somewhere around settings>tools>t
 
 Presumably, restart the Terminal tab in PyCharm for it to take effect.
 
-### 5. PyCharm setup: Choosing WSL's Python interpreter in PyCharm
+### 5. Choosing WSL's Python interpreter in PyCharm
 
 You may recall that PyCharm needs to know which Python interpreter to use for your project -- somewhere around Settings>Project>Interpreter.
 
