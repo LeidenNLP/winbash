@@ -1,7 +1,14 @@
 # How to get access to a bash shell, as a Windows user
 
-These notes are meant for students of the course Python for Linguists 2 of Leiden University.
+These notes are meant for students of the course Python for Linguists 2 at Leiden University.
 
+This document outlines three options:
+
+A. Dual boot
+B. Windows Subsystem for Linux
+C. Cygwin
+
+Nevertheless, getting things working may require some grit and stamina.
 
 ## Option A: Dual boot.
 
